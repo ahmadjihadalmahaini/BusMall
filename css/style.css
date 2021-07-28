@@ -1,0 +1,27 @@
+
+  div{
+   padding-left: 150px;
+  }
+  
+
+  p{
+    font-size: 150%;
+    color: blue;
+    font-weight: bolder;
+    text-align: center;
+    margin: 50px 50px 50px 0px;
+    
+  }
+  body{
+    background-color: darkorange
+  }
+  
+  
+
+  img{
+    width: 400px;
+    height: 400px;
+  }
+  img{
+    margin-left: 20px;
+  }
